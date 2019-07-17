@@ -21,7 +21,7 @@ You need to have basic understanding of HTML and CSS to take on this project and
 
 # Deployment
 
-Github pages
+[Surge](https://surge.sh/)
 
 
 # Author
